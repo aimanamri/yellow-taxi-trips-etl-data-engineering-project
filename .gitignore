@@ -1,5 +1,6 @@
-# Temp working directories
+# Temp working directories and files
 test/
+test*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
