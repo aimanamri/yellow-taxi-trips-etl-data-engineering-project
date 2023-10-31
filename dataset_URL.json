@@ -1,0 +1,19 @@
+[
+    {
+        "BaseURL": "https://raw.githubusercontent.com",
+        "RelativeURL": "aimanamri/yellow-taxi-trips-etl-data-engineering-project/main/data/data_2022.csv",
+        "FileName": "data_2022"
+    },
+    {
+        "BaseURL": "https://raw.githubusercontent.com",
+        "RelativeURL": "aimanamri/yellow-taxi-trips-etl-data-engineering-project/main/data/data_2021.csv",
+        "FileName": "data_2021"
+    },
+    {
+        "BaseURL": "https://raw.githubusercontent.com",
+        "RelativeURL": "aimanamri/yellow-taxi-trips-etl-data-engineering-project/main/data/data_2020.csv",
+        "FileName": "data_2020"
+    }
+
+]
+    
